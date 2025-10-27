@@ -149,5 +149,5 @@ SABの可視化は、数値でも指標でもなく、
 
 ---
 
-*Fumito Yokoyama / Stellar Abyss Institute*
+*AFT / Stellar Abyss Institute*
 *Manosque, 2025*
