@@ -146,5 +146,5 @@ Stellar Abyssとは、
 
 ---
 
-*Fumito Yokoyama / Stellar Abyss Institute*
+*AFT / Stellar Abyss Institute*
 *Manosque, 2025*
