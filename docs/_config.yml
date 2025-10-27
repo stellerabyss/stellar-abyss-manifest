@@ -1,0 +1,6 @@
+remote_theme: jekyll/minima
+title: "Stellar Abyss 2.0 — Manifest"
+description: "The philosophical and structural foundation of the Stellar Abyss system."
+lang: en
+minima:
+  skin: auto

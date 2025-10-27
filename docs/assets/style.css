@@ -1,0 +1,14 @@
+body {
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.7;
+  font-family: system-ui, sans-serif;
+}
+h1, h2, h3 {
+  letter-spacing: 0.02em;
+}
+blockquote {
+  border-left: 3px solid #888;
+  padding-left: 0.8rem;
+  color: #555;
+}
