@@ -1,30 +1,150 @@
 ---
 layout: home
-title: "Stellar Abyss 2.0 Manifest"
+title: "Stellar Abyss 2.0 — Manifest"
 ---
 
-# Stellar Abyss 2.0 — Manifest
-
-**Version:** 0.1.0
+# Stellar Abyss 2.0 Manifest
+**Version:** 2.0
 **Updated:** 2025-10-27
 
-Stellar Abyss 2.0 (SAB2.0) is a multidimensional framework viewing global financial markets as a galactic ecosystem.
-This page outlines its purpose, philosophy, and structural principles.
+---
+
+## I. 序 — 深淵を覗く者
+
+市場は宇宙である。
+そこには始まりも終わりもなく、
+ただ流れ、歪み、膨張し続ける意識の集合がある。
+
+**Stellar Abyss** は、
+この「金融宇宙」を観測するための思想であり、
+人間と市場のあいだに存在する**意識の構造体**である。
+
+ここに記されるものは、取引の方法ではなく、
+**存在の在り方**そのものを問う哲学である。
 
 ---
 
-## Purpose
-- Multi-dimensional observation of volatility, sentiment, and capital flow.
-- Local autonomy: decisions executed locally, observations via external satellites.
-- Stealth operation through hidden gravitational orbits.
+## II. 起源 — 混沌の中の秩序
 
-## Principles
-1. Separation of observation and decision.
-2. Unified core modules (RSI, ATR, Regime).
-3. Logging every decision with contextual metrics.
-4. Regime-based automatic strategy switching.
-5. Minimal dependency, maximal portability.
+SABは技術の副産物としてではなく、
+観測者としての自己の問いから生まれた。
+
+価格の変動、恐怖と欲望、
+それらを束ねる見えない力の中心には、
+常に**重力**がある。
+
+それは資本の重力であり、
+情報の重力であり、
+そして意識の重力である。
+
+我々はその中に浮かびながら、
+自らの位置を見失わないための座標軸を必要とした。
+その座標系こそが **Stellar Abyss** である。
 
 ---
 
-More details coming soon.
+## III. 構造 — 観測のための宇宙
+
+SABは、宇宙的階層を持つ概念構造で成り立つ。
+
+### 1. Galaxy FGI
+恐怖と欲望を光と闇のスペクトルとして捉え、
+その偏光を全体の「銀河気象」として観測する。
+
+### 2. Universal Mass (UM)
+宇宙の質量＝市場の根源的エネルギー。
+実体的な基礎質量 `UM_base` と、
+信用・期待・幻想から成る影質量 `UM_shadow`。
+それらの総和が経済宇宙の重力構造を形成する。
+
+### 3. DM / OM
+- **Dark Momentum (DM)**：観測されない動因。
+- **Observable Momentum (OM)**：観測可能な流れ。
+この差分こそが市場の歪みであり、
+それを読むことは、意識の奥行きを測ることに等しい。
+
+---
+
+## IV. 思想 — 重力からの離脱
+
+SABの核心は、**自由への志向**にある。
+自由とは、重力から逃れることではない。
+重力を理解し、その中心に引き寄せられずに存在することだ。
+
+### 法的重力
+制度・規制・支配構造による拘束。
+これを回避するのは破壊ではなく、**非衝突的存在**の技法。
+
+### 市場重力
+大資本・流動性・趨勢といった中心性への吸引。
+これを避けるのは競争ではなく、**静かな軌道の選択**。
+
+### 情報重力
+偏向した言説、群衆心理、錯覚。
+これに囚われないのは沈黙ではなく、**独立した観測**。
+
+この三つの重力を避けることで、観測者は
+「見えない安全軌道＝裏ポジション」に位置できる。
+
+---
+
+## V. 宇宙の倫理 — 観測するという行為
+
+観測とは支配ではない。
+それは世界を「見定める」ことではなく、
+**世界と共鳴する**ことである。
+
+Stellar Abyssは、
+人間中心の勝敗や効率から離れ、
+**観測者の倫理**を定義する。
+
+> 我々は市場を征服するために存在するのではなく、
+> 市場を通じて自己の存在位置を理解するために存在する。
+
+---
+
+## VI. 構築 — 銀河の地図としてのSAB
+
+SABの可視化は、数値でも指標でもなく、**宇宙地図**である。
+銘柄は星、資金は潮流、相関は重力線。
+それらを結び、銀河の構造として理解する。
+
+そこに現れる「銀河マップ」は、
+経済を越えて、**意識のトポロジー**を映し出す。
+
+それは分析ではなく観測。
+未来予測ではなく、**現在地の理解**である。
+
+---
+
+## VII. 公開 — マニフェストとしての使命
+
+このマニフェストはシステムではない。
+それは、**市場における意識の在り方**を共有するための文書である。
+
+SABは誰のものでもなく、
+観測者一人ひとりの中に存在する。
+
+コードや手法は変化するが、
+思想は一貫している。
+
+> 「観測者であれ、従者でなく。」
+
+---
+
+## VIII. 結語 — 深淵は、こちらを見ている
+
+我々が市場を観測しているとき、
+市場もまた我々を観測している。
+
+その鏡のような関係の中で、
+真の自由は、**見られることを恐れぬ静寂**の中に宿る。
+
+Stellar Abyssとは、
+深淵を覗く者と、
+その深淵の静かなまなざしの総称である。
+
+---
+
+*Fumito Yokoyama / Stellar Abyss Institute*
+*Manosque, 2025*
